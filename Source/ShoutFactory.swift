@@ -1,6 +1,6 @@
 import UIKit
 
-let shoutView = ShoutView()
+public let shoutView = ShoutView()
 
 open class ShoutView: UIView {
 
